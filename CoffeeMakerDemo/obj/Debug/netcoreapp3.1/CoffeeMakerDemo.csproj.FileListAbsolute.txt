@@ -1,0 +1,13 @@
+C:\Users\PRITHVIL5\source\repos\CoffeeMakerDemo\CoffeeMakerDemo\bin\Debug\netcoreapp3.1\CoffeeMakerDemo.exe
+C:\Users\PRITHVIL5\source\repos\CoffeeMakerDemo\CoffeeMakerDemo\bin\Debug\netcoreapp3.1\CoffeeMakerDemo.deps.json
+C:\Users\PRITHVIL5\source\repos\CoffeeMakerDemo\CoffeeMakerDemo\bin\Debug\netcoreapp3.1\CoffeeMakerDemo.runtimeconfig.json
+C:\Users\PRITHVIL5\source\repos\CoffeeMakerDemo\CoffeeMakerDemo\bin\Debug\netcoreapp3.1\CoffeeMakerDemo.runtimeconfig.dev.json
+C:\Users\PRITHVIL5\source\repos\CoffeeMakerDemo\CoffeeMakerDemo\bin\Debug\netcoreapp3.1\CoffeeMakerDemo.dll
+C:\Users\PRITHVIL5\source\repos\CoffeeMakerDemo\CoffeeMakerDemo\bin\Debug\netcoreapp3.1\CoffeeMakerDemo.pdb
+C:\Users\PRITHVIL5\source\repos\CoffeeMakerDemo\CoffeeMakerDemo\obj\Debug\netcoreapp3.1\CoffeeMakerDemo.csprojAssemblyReference.cache
+C:\Users\PRITHVIL5\source\repos\CoffeeMakerDemo\CoffeeMakerDemo\obj\Debug\netcoreapp3.1\CoffeeMakerDemo.AssemblyInfoInputs.cache
+C:\Users\PRITHVIL5\source\repos\CoffeeMakerDemo\CoffeeMakerDemo\obj\Debug\netcoreapp3.1\CoffeeMakerDemo.AssemblyInfo.cs
+C:\Users\PRITHVIL5\source\repos\CoffeeMakerDemo\CoffeeMakerDemo\obj\Debug\netcoreapp3.1\CoffeeMakerDemo.csproj.CoreCompileInputs.cache
+C:\Users\PRITHVIL5\source\repos\CoffeeMakerDemo\CoffeeMakerDemo\obj\Debug\netcoreapp3.1\CoffeeMakerDemo.dll
+C:\Users\PRITHVIL5\source\repos\CoffeeMakerDemo\CoffeeMakerDemo\obj\Debug\netcoreapp3.1\CoffeeMakerDemo.pdb
+C:\Users\PRITHVIL5\source\repos\CoffeeMakerDemo\CoffeeMakerDemo\obj\Debug\netcoreapp3.1\CoffeeMakerDemo.genruntimeconfig.cache
